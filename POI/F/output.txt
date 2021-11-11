@@ -1,0 +1,3 @@
+sure palindrome
+looks palindrome
+not palindrome
